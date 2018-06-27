@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: Mike Wazovzky
-heroImage: /hero.png
+heroImage: /mw.jpg
 actionText: Get started →
 actionLink: /about/
 features:
