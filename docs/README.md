@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: Майк Вазовзки
-heroImage: /mw.jpg
+heroImage: /mw.png
 actionText: Перейти к резюме →
 actionLink: /about/
 features:
