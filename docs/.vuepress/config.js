@@ -3,7 +3,7 @@ module.exports = {
         '/': {
             title: 'Майк Вазовзки',
             lang: 'ru-RU',
-            description: 'Профессиональная разработка вэб приложений'
+            description: 'Профиль вэб разработчика (fullstack)'
         },
         '/en/': {
             title: 'Mike Wazovzky',

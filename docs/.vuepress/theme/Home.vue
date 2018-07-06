@@ -52,7 +52,7 @@ export default {
   .hero
     text-align center
     img
-      max-height 500px
+      max-height 300px
       display block
       margin 3rem auto 1.5rem
     h1
@@ -95,8 +95,10 @@ export default {
       border-bottom none
       padding-bottom 0
       color lighten($textColor, 10%)
+      text-align center
     p
       color lighten($textColor, 25%)
+      text-align justify
   .footer
     padding 2.5rem
     border-top 1px solid $borderColor

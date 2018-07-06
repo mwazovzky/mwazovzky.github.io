@@ -5,11 +5,11 @@ heroImage: /mw.png
 actionText: Перейти к резюме →
 actionLink: /about/
 features:
-- title: Backend
-  details: Minimal setup with markdown-centered project structure helps you focus on writing.
-- title: Frontend
-  details: Enjoy the dev experience of Vue + webpack, use Vue components in markdown, and develop custom themes with Vue.
-- title: Open Source
-  details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
+- title: Оптимальный стэк технологий
+  details: Знание и использование сильных сторон линейки современных средств вэб разработки (бэкэнд, фронтэнд) позволяет создавать оптимальную архитектуру приложения и обеспечивает эффективное взаимодействие его компонент, дает возможность строить гибкие и масштабируемые решения.
+- title: Фокус на достижение бизнес-цели
+  details: Понимание задач стоящих перед менеджментом и бизнес-процессов, способность говорить с пользователем (в т.ч. C-level) на одном языке, позволяют мне определить наиболее приоритетные задачи проекта, сфокусироваться на их решении и добиться результата максимально простыми средствами в сжатые сроки.
+- title: Эффективная организация работы
+  details: Современные инструменты разработки (agile) в сочетании с фундаментальными принципами управления проектом (постоянный фокус на сроках, бюджете, конечной цели) позволяет организовать работу прозрачным, понятным и управляемым для заказчика образом.
 footer: MIT Licensed | Copyright © 2018
 ---

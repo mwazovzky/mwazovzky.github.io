@@ -1,25 +1,7 @@
-.container {
-    margin-top: 50px;
-}
+.divider {
+    border-color: #3eaf7c;
+} 
 
-.flex-wrapper {
-    border-top: 1px solid #3eaf7c;
-    margin-top: 10px;
-    padding-top: 10px;
-    display: grid;
-    grid-template-columns: 200px auto;
-}
-
-.flex-wrapper h4 {
-    margin-top: 0;
-    margin-bottom: 5px;
-}
-
-.timing {
-
-}
-
-.job ul {
-    margin: 0;
-    line-height: inherit;
+blockquote {
+    font-size: 1em;
 }
