@@ -46,9 +46,9 @@ module.exports = {
                 sidebar: [
                     '/en/',
                     '/en/about/',
-                    '/en/jobs',
-                    '/en/education',
-                    '/en/projects',
+                    ['/en/jobs', 'Jobs Experience'],
+                    ['/en/education', 'Education'],
+                    ['/en/projects', 'Projects'],
                 ],
                 sidebarDepth: 2
             },

@@ -3,13 +3,13 @@ home: true
 heroText: Mike Wazovzky
 heroImage: /mw.jpg
 actionText: Get started →
-actionLink: /about/
+actionLink: /en/about/
 features:
-- title: Backend
+- title: Modern Techology Stack
   details: ...
-- title: Frontend
+- title: Bussiness Needs Centric
   details: ...
-- title: Open source
+- title: Project Management Experience
   details: ...
 footer: MIT Licensed | Copyright © 2018
 ---
