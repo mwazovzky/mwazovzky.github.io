@@ -6,15 +6,18 @@
 
 ## Commercial project
 ### Planning
-Бизнес приложение управляющее планированием и контролем за исполнением планов развиия коммерческие сети продвигающей продукты компании. Проект состоит из двух этапов, первый ("планирование") включает в себя формирование планов и прогнозирование на их основе различных бизнес-показателей, второй ("мониторинг") - сравнение фактических результатов с запланированными показателями, формирование (пересмотр) прогноза и формирование аналитической отчетности.
+Planning commercial network development. Specifically planning installation, modernization and utilization of commercial equipment promoting client brands products within a retail partners locations. Application covers planning, monitoring and analitycs stage of the process.
 
 **Project size:** ~ 400 retail chains all over Russia,  ~300 users. 
 
 **Role:** senior web developer, team lead.
 
-> Активное участие в документировании, согласовнии и уточнении требований заказчика, разработка и совершенствование архитектуры решения, формирование плана и задач проекта, их реализация совместно с командой разработчиков и сотрудников заказчика (бизнес-аналитиков). 
+> I partcipated in process/requirements documentation, designed solution architecture, developed project plan and tasks, 
+implemented it with a project team. 
 
-**Status:** stage one - production, stage two - development. 
+**Status:** Project is structured into 2 stages,    
+stage one (planning) is currently in production, 
+stage two under development. 
 
 ::: tip TECHOLOGY/SPECIFICS
 PHP/Laravel, mySQL, Vue/Vuex    
@@ -23,11 +26,11 @@ MS Excel reporting
 :::
 
 ### Equipment Managemt System
-Бизнес приложение управляющее жизненным циклом оборудования: заказ → транспортирова → установка → ремонт → демонтаж/утилизация. 
+Equipment lifecycle management: requisition → transportation → installation → maintenance → dismantling/utilization. 
 
-**Role:** программист в команде вэб-разработки, бэкэнд.
+**Role:** web developer, backend.
 
-> Работал над интеграционными задачами, связанными с загрузкой данных из файлов и внешнего API, взаимодействием с внешним приложением - авторизация (OAuth2/Passport) и обмен данными. Совершенствование системы техподдержки пользователей. Разработка тестов.
+> Tasks. 3rd party integration, loading external data (files and API), Single Sign On solution, planning system data exhange (data mining and API), customer support system, unit and integration testing.
 
 **Status:** production.
 
@@ -38,7 +41,7 @@ Third party API
 :::
 
 ### VictoryOverEnglish.com
-Personal site created for Professional English Teacher.
+Personal site created for Professional English Teacher.   
 **Status:** closed
 ::: tip TECHNOLOGY
 WordPress
