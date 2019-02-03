@@ -2,8 +2,8 @@
 ## Personal webpage
 ### Powered by [vuepress](https://vuepress.vuejs.org)
 
-<p align="center">
-  <img src="https://vuepress.vuejs.org/logo.png"/>
+<p align="center" width="240px">
+  <img src="https://vuepress.vuejs.org/hero.png"/>
 </p>
 
 Develop:
