@@ -1,4 +1,7 @@
 module.exports = {
+    head: [
+        ['link', { rel: 'icon', href: '/mlab32.png'}]
+    ],
     locales: {
         '/': {
             title: 'Майк Вазовзки',
