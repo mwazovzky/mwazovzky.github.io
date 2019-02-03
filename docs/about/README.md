@@ -34,11 +34,11 @@ Oauth2 авторизации,
 Являюсь сторонником концепции CleanCode. В ходе проекта уделяю серьезное внимание оптимизации архитектуры приложения и рефакторингу.
 
 ## Знание языков
-Русский — родной
+Русский — родной    
 Английский — свободно владею
 
 ## Контакты
-mail: mike.wazovzky@gmail.com
+mail: mike.wazovzky@gmail.com   
 twitter: [@MWazovzky](https://twitter.com/MWazovzky)
 
 ## Профиль Github
