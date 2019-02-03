@@ -1,7 +1,10 @@
 # Mike Wazovzky
 ## Personal webpage
+### Powered by [vuepress](https://vuepress.vuejs.org)
 
-Powered by [vuepress](https://vuepress.vuejs.org)
+<p align="center">
+  <img src="https://vuepress.vuejs.org/logo.png"/>
+</p>
 
 Develop:
 ```
