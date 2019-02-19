@@ -24,7 +24,7 @@ MS Excel reporting
 Analytical data visualisation
 :::
 
-### Equipment Managemt System
+### Equipment Management System
 Equipment lifecycle management: requisition → transportation → installation → maintenance → dismantling/utilization. 
 
 **Role:** web developer, backend.
