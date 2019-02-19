@@ -15,14 +15,13 @@ Planning commercial network development. Specifically planning installation, mod
 > I partcipated in process/requirements documentation, designed solution architecture, developed project plan and tasks, 
 implemented it with a project team. 
 
-**Status:** Project is structured into 2 stages,    
-stage one (planning) is currently in production, 
-stage two under development. 
+**Status:** Project is currently in production, minor improvement are implemented under support contract. Additional requirements are being discussed. 
 
 ::: tip TECHOLOGY/SPECIFICS
 PHP/Laravel, mySQL, Vue/Vuex    
 Third party API  
-MS Excel reporting
+MS Excel reporting   
+Analytical data visualisation
 :::
 
 ### Equipment Managemt System
