@@ -1,31 +1,43 @@
-## General Information
+### General Information
 
-## Technology Stack:
-**backend:** PHP/Laravel,  
-**database:** mySQL/SQLite,   
-**no sql:** Redis,  
-**frontend:** JavaScript/ES6, Vue/Vuex, CSS/SASS, CSS frameworks Bootstrap/Bulma,  
-**bundling:** Webpack,  
-**tools:** Git/Bitbucket/Jira/Confluence,   
+I am a professional fullstack web developer with year of experience
+still passionate about modern web technologies.
+
+I am responsible person always focused on goals/result,
+I can efficiently organize my work,
+may break down complex task/project to manageable steps and execute them.
+
+I have experience of working within agile environment (scrum with weekly sprints)
+as well as doing project under traditional (waterfall) project management approach.
+
+### Technology Stack:
+**backend:** PHP/Laravel, Node/Express,   
+**frontend:** JavaScript/ES6, Vue/Vuex, CSS/SASS, CSS frameworks Bootstrap/Bulma,   
+**bundling:** Webpack,   
+**database:** mySQL/SQLite, MongoDB, Redis,    
 **search:** Algolia, Elasticsearch,   
-**testing:** PHPUnit, Mocha/Chai/Sinon,   
-**static sites/documentation:** Vuepress  
+**tools:** Git/Bitbucket/Jira/Confluence,   
+**testing:** PHPUnit, Jest, Mocha/Chai/Sinon,    
+**static sites/documentation:** Vuepress
 
-I have experience with RESTful API design and consumption, Oauth2 authorization, social network API, specifically Twitter and Facebook.  
+I have experience with RESTful API design and consumption, Oauth2 authorization, social network API, specifically Twitter and Facebook.
 
-I use OOP and (if needed) Design Patterns, TDD, Continuous Integration tools. 
+I use OOP and (if needed) Design Patterns, TDD, Continuous Integration tools.
 
-I support CleanCode code concept, think that constant attention to application architecture (incremental improvements) and code refactoring are key factors to large project success.   
+I follow PSR standards, support CleanCode code concept, think that constant attention to application architecture (incremental improvements) and code refactoring are key factors to large project success.
 
-## Languages
-Russian — native   
+### Languages
+Russian — native
 English — fluent
 
-## Contacts
-mail: mike.wazovzky@gmail.com   
+### Contacts
+mail: mike.wazovzky@gmail.com
 twitter: [@MWazovzky](https://twitter.com/MWazovzky)
 
-## Github
+### Github
 [https://github.com/mwazovzky](https://github.com/mwazovzky)
 
-## Project [examples](/en/projects.md)
+### Bitbucket
+[https://bitbucket.org/MWazovzky](https://bitbucket.org/MWazovzky)
+
+### Project [examples](/en/projects.md)
