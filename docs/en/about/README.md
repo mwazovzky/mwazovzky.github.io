@@ -1,4 +1,4 @@
-### General Information
+# General Information
 
 I am a professional fullstack web developer with years of experience
 still passionate about modern web technologies.
@@ -10,7 +10,7 @@ may break down complex task/project to manageable steps and execute them.
 I have experience of working within agile environment (scrum with weekly sprints)
 as well as doing project under traditional (waterfall) project management approach.
 
-### Technology Stack:
+## Technology Stack
 **backend:** PHP/Laravel/Symfony,   
 **frontend:** JavaScript/ES6, Vue/Vuex, CSS/SASS/Bootstrap/Bulma, Webpack,   
 **database:** MySQL, MongoDB, Redis,    
@@ -24,18 +24,18 @@ I use OOP and (if needed) Design Patterns, TDD, Continuous Integration tools.
 
 I follow PHP PSR standards, support CleanCode code concept, think that constant attention to application architecture (incremental improvements) and code refactoring are key factors to large project success.
 
-### Languages
+## Languages
 Russian — native   
 English — fluent
 
-### Contacts
+## Contacts
 mail: mike.wazovzky@gmail.com   
 twitter: [@MWazovzky](https://twitter.com/MWazovzky)
 
-### Bitbucket
+## Bitbucket
 [https://bitbucket.org/MWazovzky](https://bitbucket.org/MWazovzky)
 
-### Github
+## Github
 [https://github.com/mwazovzky](https://github.com/mwazovzky)
 
-### Project [examples](/en/projects.md)
+## Project [examples](/en/projects.md)

@@ -102,7 +102,7 @@ The library (Laravel Package) allows output logs to database, thus allowing stru
 PHP/Laravel/MySQL
 :::
 
-### MWazovzky/Adjustable
+### mwazovzky/adjustable
 The library (Laravel Package) allows to track all change made to the Model.
 Modifications are recorded to the datebase, the format is: { Who, When, Before, After }.   
 **Status:** active   
@@ -111,7 +111,7 @@ Modifications are recorded to the datebase, the format is: { Who, When, Before, 
 PHP/Laravel
 :::
 
-### MWazovzky/Taggable
+### mwazovzky/taggable
 The library (Laravel Package) allows to assign tags to different Models within Laravel application. 
 Tags are implemented as polimorphic Model relation. 
 Besides the backend, library includes set of UI components (Vue) to help you easily add tagging to project.   

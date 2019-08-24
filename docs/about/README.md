@@ -11,7 +11,7 @@
 
 Есть опыт управления командой, на проектной основе и организационным подразделением.
 
-## Cтек технологий:
+## Cтек технологий
 **бэкэнд:** PHP/Laravel/Symfony,      
 **фронтэнд:** JavaScript/ES6, Vue, CSS/SASS/Bootstrap/Bulma, Webpack,   
 **базы данных:** MySQL, MongoDB, Redis,       
@@ -33,18 +33,18 @@ Oauth2 авторизации,
 В ходе проекта уделяю серьезное внимание оптимизации архитектуры приложения и рефакторингу.
 Стремлюсь к построению простой и логичной архитектуры.
 
-### Знание языков
+## Знание языков
 Русский — родной    
 Английский — свободно владею
 
-### Контакты
+## Контакты
 mail: mike.wazovzky@gmail.com   
 twitter: [@MWazovzky](https://twitter.com/MWazovzky)
 
-### Bitbucket
+## Bitbucket
 [https://bitbucket.org/mwazovzky](https://bitbucket.org/mwazovzky)
 
-### Github
+## Github
 [https://github.com/mwazovzky](https://github.com/mwazovzky)
 
-### Примеры реализованных [проектов](/projects.md)
+## Примеры [проектов](/projects.md)
