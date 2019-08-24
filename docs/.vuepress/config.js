@@ -23,15 +23,15 @@ module.exports = {
                 nav: [
                     { text: 'Главная', link: '/' },
                     { text: 'Обзор', link: '/about/' },
-                    { text: 'Опыт работы', link: '/jobs' },
                     { text: 'Образование', link: '/education' },
+                    { text: 'Опыт работы', link: '/jobs' },
                     { text: 'Проекты', link: '/projects' },
                 ],
                 sidebar: [
                     ['/', 'Главная'],
                     ['/about/', 'Обо мне'],
-                    ['/jobs', 'Опыт работы'],
                     ['/education', 'Образование'],
+                    ['/jobs', 'Опыт работы'],
                     ['/projects', 'Проекты'],
                 ],
                 sidebarDepth: 2
@@ -42,15 +42,15 @@ module.exports = {
                 nav: [
                     { text: 'Home', link: '/en/' },
                     { text: 'Overview', link: '/en/about/' },
-                    { text: 'Experience', link: '/en/jobs' },
                     { text: 'Education', link: '/en/education' },
+                    { text: 'Experience', link: '/en/jobs' },
                     { text: 'Projects', link: '/en/projects' },
                 ],
                 sidebar: [
                     '/en/',
                     '/en/about/',
-                    ['/en/jobs', 'Jobs Experience'],
                     ['/en/education', 'Education'],
+                    ['/en/jobs', 'Jobs Experience'],
                     ['/en/projects', 'Projects'],
                 ],
                 sidebarDepth: 2

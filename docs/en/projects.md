@@ -5,23 +5,46 @@
 [[toc]]
 
 ## Commercial project
-### Planning
-Planning commercial network development. Specifically planning installation, modernization and utilization of commercial equipment promoting client brands products within a retail partners locations. Application covers planning, monitoring and analitycs stage of the process.
+### Business Analytics
+Appplication 
+- collects business operations data from three different sources (api) for (1) completed operations, (2) planned operations, (3) historic data,
+- analyses collected data - structure and dynamics, 
+- models future behavior - builds forecast and baseline plan.   
 
-**Project size:** ~ 400 retail chains all over Russia,  ~300 users. 
+**Customer:** leading FMCG producer   
+
+**Role** senior developer, team lead.   
+
+> Design soluton architecture, build a plan, break it down to tasks, excecute them by small team.   
+
+**Status:** live.
+
+::: tip TECHOLOGY/PROJECT SPECIFICS
+PHP/Laravel/MySQL/Vue.js. 
+Extensive communication with external applications (developed API).
+MS Excel reporting.
+Google Charts data visualization.
+:::
+
+### Planning
+Planning commercial network development. Specifically planning installation, modernization and utilization of commercial equipment promoting client's brands/products within a retail partners locations.
+Application covers planning, monitoring and analytics stage of the process.
+
+**Customer:** leading FMCG producer  
+
+**Project size:** ~500 retail chains all over Russia,  ~400 users. 
 
 **Role:** senior web developer, team lead.
 
-> I partcipated in process/requirements documentation, designed solution architecture, developed project plan and tasks, 
-implemented it with a project team. 
+> Process/requirements documentation, design solution architecture, develop project plan/tasks, implemented it with a project team. 
 
-**Status:** Project is currently in production, minor improvement are implemented under support contract. Additional requirements are being discussed. 
+**Status:** Live, on-going enchancements as part maintenace contract. 
 
-::: tip TECHOLOGY/SPECIFICS
-PHP/Laravel, mySQL, Vue/Vuex    
-Third party API  
-MS Excel reporting   
-Analytical data visualisation
+::: tip TECHOLOGY/PROJECT SPECIFICS
+PHP/Laravel/MySQL/Vue/Vuex.
+Third party API (bidirectional). 
+MS Excel reporting.
+Google Charts data visualization. 
 :::
 
 ### Equipment Management System
@@ -29,19 +52,20 @@ Equipment lifecycle management: requisition → transportation → installation 
 
 **Role:** web developer, backend.
 
-> Tasks. 3rd party integration, loading external data (files and API), Single Sign On solution, planning system data exhange (data mining and API), customer support system, unit and integration testing.
+> Tasks. POS materials distribution (requests → consolidated procurement → distribution). 3rd party integration, loading external data (files and API). Single Sign On solution. Planning system data exhange (data mining and bi-directional API). Customer support system. Unit and integration testing.
 
 **Status:** production.
 
-::: tip TECHNOLOGY
-PHP/Laravel, mySQL    
-OAuth2 authorization (SSO) based on Laravel/Passport    
-Third party API   
+::: tip TECHOLOGY/PROJECT SPECIFICS
+PHP/Laravel/MySQL. 
+OAuth2 authorization (SSO) based on Laravel/Passport.
+Third party API.   
 :::
 
 ### VictoryOverEnglish.com
 Personal site created for Professional English Teacher.   
-**Status:** closed
+**Status:** live
+[http://victoryoverenglish.com](http://victoryoverenglish.com)
 ::: tip TECHNOLOGY
 WordPress
 :::
@@ -58,7 +82,7 @@ Laravel/Vue.js/Bootstrap
 Web Dev Blog.   
 **Status:** active 
 ::: tip TECHNOLOGY
-PHP/Laravel, mySQL, Vue.js/ES6 
+PHP/Laravel/MySQL/Vue.js 
 :::
 
 ### Travel Blog [travel.m-lab.xyz](http://travel.m-lab.xyz)
@@ -69,16 +93,17 @@ WordPress
 :::
 
 ## Open Source (OSS)
-### MWazovzky/MW-ToolBox
-Collection of UI component   
-**Status:** active    
-[https://github.com/mwazovzky/mw-toolbox](https://github.com/mwazovzky/mw-toolbox)
-::: tip TECHNOLOGY
-Vue.js
+### mwazovzky/laravel-database-logger
+The library (Laravel Package) allows output logs to database, thus allowing structure, search and analyse critical log data. 
+
+**Status:** active,
+[https://github.com/mwazovzky/laravel-database-logger](https://github.com/mwazovzky/laravel-database-logger)
+::: tip ТЕХНОЛОГИИ
+PHP/Laravel/MySQL
 :::
 
 ### MWazovzky/Adjustable
-The library allows to track all change made to the Model.
+The library (Laravel Package) allows to track all change made to the Model.
 Modifications are recorded to the datebase, the format is: { Who, When, Before, After }.   
 **Status:** active   
 [https://github.com/mwazovzky/adjustable](https://github.com/mwazovzky/adjustable)
@@ -87,12 +112,11 @@ PHP/Laravel
 :::
 
 ### MWazovzky/Taggable
-The library allows to assign tags to different Models within Laravel application. 
+The library (Laravel Package) allows to assign tags to different Models within Laravel application. 
 Tags are implemented as polimorphic Model relation. 
 Besides the backend, library includes set of UI components (Vue) to help you easily add tagging to project.   
 **Status:** active     
 [https://github.com/mwazovzky/taggable](https://github.com/mwazovzky/taggable)
 ::: tip TECHNOLOGY
-PHP/Laravel   
-Vue.js
+PHP/Laravel/Vue.js
 :::
