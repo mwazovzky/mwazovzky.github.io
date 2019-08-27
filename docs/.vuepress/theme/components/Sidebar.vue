@@ -6,6 +6,8 @@
         <SidebarLinks :depth="0" :items="items"/>
         <slot name="bottom"/>
         <hr>
+        <Quote/>
+        <hr>
         <PoweredByVuepress/>
     </aside>
 </template>
@@ -13,12 +15,13 @@
 <script>
 import SidebarLinks from '@theme/components/SidebarLinks.vue'
 import NavLinks from '@theme/components/NavLinks.vue'
+import Quote from './Quote.vue'
 import PoweredByVuepress from './PoweredByVuepress.vue'
 
 export default {
   name: 'Sidebar',
 
-  components: { SidebarLinks, NavLinks, PoweredByVuepress },
+  components: { SidebarLinks, NavLinks, Quote, PoweredByVuepress },
 
   props: ['items']
 }
