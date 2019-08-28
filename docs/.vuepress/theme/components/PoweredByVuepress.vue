@@ -17,8 +17,8 @@ export default {
     text-align center
     margin-top 20px
 .powered-by-img
-    width 140px
-    margin-top 20px
+    width 50px
+    margin-top 10px
 </style>
 
 

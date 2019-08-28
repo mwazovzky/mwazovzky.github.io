@@ -8,6 +8,10 @@
         <hr>
         <Quote/>
         <hr>
+        <div class="center">
+            <TechnologyCloud/>
+        </div>
+        <hr>
         <PoweredByVuepress/>
     </aside>
 </template>
@@ -16,18 +20,21 @@
 import SidebarLinks from '@theme/components/SidebarLinks.vue'
 import NavLinks from '@theme/components/NavLinks.vue'
 import Quote from './Quote.vue'
+import TechnologyCloud from './TechnologyCloud.vue'
 import PoweredByVuepress from './PoweredByVuepress.vue'
 
 export default {
   name: 'Sidebar',
 
-  components: { SidebarLinks, NavLinks, Quote, PoweredByVuepress },
+  components: { SidebarLinks, NavLinks, TechnologyCloud, Quote, PoweredByVuepress },
 
   props: ['items']
 }
 </script>
 
 <style lang="stylus">
+.center
+  text-align center
 .sidebar
   ul
     padding 0
@@ -61,13 +68,6 @@ export default {
         top calc(1rem - 2px)
     & > .sidebar-links
       padding 1rem 0
-
-.powered-by
-    text-align center
-    margin-top 20px
-.powered-by-img
-    width 140px
-    margin-top 20px
 </style>
 
 
