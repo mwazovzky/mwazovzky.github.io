@@ -6,14 +6,6 @@
 <hr class="divider">
 <strong>Securities</strong> Software & Consulting, Inc.<br>   
 Internship
-<blockquote>   
-Participated in following projects:
-<ul>
-<li>CRM analytics: marketing efficiency and customer behavior/patterns,</li>
-<li>pre-project analysis, adopt existing product to new market segment (decision: NO GO),</li>
-<li>pre-project analysis, new service/outsourcing (decison: GO), project planning and launch.</li>
-</ul>
-</blockquote>
 
 ### 1997, University of West Hartford, CT, USA
 <hr class="divider">
