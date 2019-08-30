@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="/style.css">
 
-# Образование
+# Education
 
 ### 1997, YEEES (Yankee Eastern European Entrepreneurial Studies)
 <hr class="divider">
