@@ -1,16 +1,18 @@
 module.exports = {
     head: [
-        ['link', { rel: 'icon', href: '/mlab32.png'}]
+        ['link', { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico'}],
+        ['link', { rel: 'icon', type: 'image/png', href: '/favicon-32x32.png'}],
+        ['link', { rel: 'apple-touch-icon-precomposed', href: '/apple-icon-precomposed.png'}],
     ],
     locales: {
         '/': {
-            title: 'Майк Вазовзки',
             lang: 'ru-RU',
+            title: 'Майк Вазовзки',
             description: 'Профиль вэб разработчика (fullstack)'
         },
         '/en/': {
-            title: 'Mike Wazovzky',
             lang: 'en-EN',
+            title: 'Mike Wazovzky',
             description: 'Web Development Professional'
         }
     },
