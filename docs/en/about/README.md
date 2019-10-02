@@ -1,3 +1,17 @@
+---
+meta:
+  - name: "og:title"
+    content: Mike Wazovzky. Web dev professional. 
+  - name: "og:description"
+    content: Personal site. Technology stack, projects, contacts.
+  - name: "og:image"
+    content: https://mwazovzky.github.io/mikeandsully.png
+  - name: "twitter:card"
+    content: summary
+  - name: "twitter:image"
+    content: https://mwazovzky.github.io/mw2.png
+---
+
 # General Information
 
 I am a professional fullstack web developer with years of experience
@@ -11,8 +25,8 @@ I have experience of working within agile environment (scrum with weekly sprints
 as well as doing project under traditional (waterfall) project management approach.
 
 ## Technology Stack
-**backend:** PHP/Laravel/Symfony,   
-**frontend:** JavaScript/ES6, Vue/Vuex, CSS/SASS/Bootstrap/Bulma, Webpack,   
+**backend:** PHP/Laravel/Symfony, GO,   
+**frontend:** JavaScript/ES6, Vue/Vuex, CSS/SASS, Webpack,   
 **database:** MySQL, MongoDB, Redis,    
 **search:** Algolia, Elasticsearch,   
 **tools:** Git/Bitbucket/Jira/Confluence, Docker,   

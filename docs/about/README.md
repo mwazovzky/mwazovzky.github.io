@@ -1,3 +1,17 @@
+---
+meta:
+  - name: "og:title"
+    content: Майк Вазовзки. Профессионал в области вэб разработки 
+  - name: "og:description"
+    content: Персональный сайт. Технологии, проекты, контакты.
+  - name: "og:image"
+    content: https://mwazovzky.github.io/mikeandsully.png
+  - name: "twitter:card"
+    content: summary
+  - name: "twitter:image"
+    content: https://mwazovzky.github.io/mw2.png
+---
+
 ## Общая информация
 
 Занимаюсь разработкой программного обеспечения для web.
@@ -12,12 +26,11 @@
 Есть опыт управления командой, на проектной основе и организационным подразделением.
 
 ## Cтек технологий
-**бэкэнд:** PHP/Laravel/Symfony,      
-**фронтэнд:** JavaScript/ES6, Vue, CSS/SASS/Bootstrap/Bulma, Webpack,   
+**бэкэнд:** PHP/Laravel/Symfony, GO,     
+**фронтэнд:** JavaScript/ES6, Vue, CSS/SASS, Webpack,   
 **базы данных:** MySQL, MongoDB, Redis,       
 **поиск:** Algolia, Elasticsearch,  
-**тестирование** PHPUnit, Jest, Mocha/Chai, Sinon,   
-**создание статических сайтов/документации:** Vuepress,   
+**тестирование** PHPUnit, Jest, Mocha/Chai/Sinon,   
 **инструменты:** Git/Bitbucket/Jira/Confluence, Docker.
 
 Есть опыт проектирования и использования RESTful API,

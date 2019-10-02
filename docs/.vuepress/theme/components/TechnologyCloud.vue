@@ -7,6 +7,7 @@ const data = [
     { text: 'Vue', count: 50, color: '42b883'},  
     { text: 'PHP', count: 40, color: '474A8A'},  
     { text: 'JS', count: 40, color: 'F0DB4F'}, 
+    { text: 'GO', count: 40, color: '29BEB0'}, 
     { text: 'MySQL', count: 30, color: 'F29111'},  // '00758F'
     { text: 'HTML5', count: 25, color: 'E44D26'}, 
     { text: 'CSS', count: 25, color: '2565AE'}, 
