@@ -12,8 +12,8 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "d3": "^5.11.0",
+    "d3": "^5.15.1",
     "d3-cloud": "^1.2.5",
-    "vuepress": "^1.0.3"
+    "vuepress": "^1.4.1"
   }
 }
