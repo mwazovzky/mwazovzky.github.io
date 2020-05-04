@@ -14,29 +14,37 @@ meta:
 
 # General Information
 
-I am a professional fullstack web developer with years of experience
-still passionate about modern web technologies.
+I am a professional fullstack software developer passionate about modern web technologies.
 
-I am responsible person always focused on goals/result,
-I can efficiently organize my work,
-may break down complex task/project to manageable steps and execute them.
+I have years of experience implementing business applications (ERP/ERM/CRM).
+Strong understanding of business process gives me opportunity to discuss
+customer needs, document and decompose requirements, create project plan.
 
-I have experience of working within agile environment (scrum with weekly sprints)
-as well as doing project under traditional (waterfall) project management approach.
+I have experience of developing complex app architecture, 
+building communication between apps (Rest API), 
+3rd party services, social networks (Facebook, Twitter) and messengers (Slack, Telegram) 
+
+TDD and Continuous Integration tools are part of my daily routine. 
+
+I follow industry coding standards (specifically PHP PSR), support CleanCode concept, 
+think that constant attention to application architecture (incremental improvements) and code refactoring are key factors to large project success.
 
 ## Technology Stack
-**backend:** PHP/Laravel/Symfony, GO,   
-**frontend:** JavaScript/ES6, Vue/Vuex, CSS/SASS, Webpack,   
-**database:** MySQL, MongoDB, Redis,    
+**backend:** PHP/Laravel, some experience with Symfony, Node.js, GO,   
+**frontend:** JavaScript, Vue ecosystem(Vuex, VueRouter, Vuetify), CSS/SASS,   
+**database:** MySQL, Redis,    
 **search:** Algolia, Elasticsearch,   
-**tools:** Git/Bitbucket/Jira/Confluence, Docker,   
+**tools:** Git/Github/Bitbucket/Jira/Confluence, Docker,   
 **testing:** PHPUnit, Jest, Mocha/Chai/Sinon,    
 
-I have experience with RESTful API design and consumption, Oauth2 authorization, social network API, specifically Twitter and Facebook.
+## Project examples
+- web platfrorm for teacher/student communication - NUXT SSR, API: Laravel/MySql,
+- btb marketplace [MVP] - Vue SPA, API: Laravel/MySql,
+- business analytics platform - Laravel/MySql/Vue,
+- business planning tool - Laravel/MySql/Vue,
+- equipment lifecycle (requisition -> installation -> maintenance -> dismantling/utilization) management app - Laravel/MySql/Vue
 
-I use OOP and (if needed) Design Patterns, TDD, Continuous Integration tools.
-
-I follow PHP PSR standards, support CleanCode code concept, think that constant attention to application architecture (incremental improvements) and code refactoring are key factors to large project success.
+Projects [details](/en/projects.md)
 
 ## Languages
 Russian — native   
@@ -52,4 +60,3 @@ twitter: [@MWazovzky](https://twitter.com/MWazovzky)
 ## Github
 [https://github.com/mwazovzky](https://github.com/mwazovzky)
 
-## Project [examples](/en/projects.md)
