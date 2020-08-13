@@ -9,11 +9,19 @@
 ### E-commerce. Internet store window shelf
 
 Product catalog - training courses, products categirization, filtering, search.
-Promo campains: offer special terms (discounst, credit) - for selected set of prodycts.
-**Роль в проекте:** backend (api) developer.  
-::: tip ТЕХНОЛОГИИ/ОСОБЕННОСТИ
+Promo campains: offer special terms (discounst, credit) - for selected set of products.
+UTM parameters. Orders and payments processing (CloudPayments).
+Integration with CRM and other services.
+
+**Status:** prodiction
+
+**Role:** backend (api) developer.  
+::: tip TECHOLOGY/PROJECT SPECIFICS
 backend/API: PHP/Laravel/MySQL  
-external services integration (webhooks)  
+services based architecture  
+admin panlel build with Laravel/Nova and related family of libraries  
+integration with CRM  
+integration with other services via webhooks  
 seach via Laravel Scout/MeiliSearch Engine
 :::
 

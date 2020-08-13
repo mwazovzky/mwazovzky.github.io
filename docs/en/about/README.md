@@ -31,7 +31,7 @@ think that constant attention to application architecture (incremental improveme
 
 ## Technology Stack
 
-**backend:** PHP/Laravel, some experience with Symfony, Node.js, GO,  
+**backend:** PHP/Laravel, some experience with Symfony, GO, Node.js,
 **frontend:** JavaScript, Vue ecosystem(Vuex, VueRouter, Vuetify), CSS/SASS,  
 **database:** MySQL, Redis,  
 **search:** Algolia, Elasticsearch,  
@@ -40,7 +40,7 @@ think that constant attention to application architecture (incremental improveme
 
 ## Project examples
 
-- internet store catalog - product categorization, filtering, search, promo campains - API: Laravel/MySql,
+- internet store catalog - product categorization, filtering, search, promo campaigns, orders and payments, utm parameters, integration with CRM and other services - API: Laravel/MySql,
 - web platfrorm for teacher/student communication - NUXT SSR, API: Laravel/MySql,
 - btb marketplace [MVP] - Vue SPA, API: Laravel/MySql,
 - business analytics platform - Laravel/MySql/Vue,
