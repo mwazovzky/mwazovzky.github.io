@@ -1,2 +1,5 @@
-/node_modules
-/docs/.vuepress/dist
+node_modules
+docs/.vitepress/dist
+docs/.vitepress/cache
+.claude
+.vscode

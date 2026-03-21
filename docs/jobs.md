@@ -1,19 +1,17 @@
-<link rel="stylesheet" type="text/css" href="/style.css">
-
 # Опыт работы
 
 #### Январь 2018 — настоящее время
-<hr class="divider">   
-<a href="https://hamelius.ru/">Cтудия Hamelius</a>
-<OutboundLink/>,
-Москва<br>   
+<hr class="divider">
+
+[Cтудия Hamelius](https://hamelius.ru/),
+Москва<br>
 Ведущий вэб-разработчик, фулстек, технологии PHP/Laravel/MySQL/Vue
 
 #### Декабрь 2013 — Май 2016
-<hr class="divider">   
-<a href="http://strategy.ru">Cтратеджи Партнерс Груп</a>
-<OutboundLink/>,
-Москва<br>   
+<hr class="divider">
+
+[Cтратеджи Партнерс Груп](http://strategy.ru),
+Москва<br>
 Риск-менеджер<br>
 Создание, внедрение и эксплуатация системы управления рисками. <br>
 Анализ качества и рисков портфеля проектов компании.<br>

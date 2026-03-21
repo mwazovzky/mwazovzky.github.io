@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="/style.css">
-
 # Education
 
 ### 1997, YEEES (Yankee Eastern European Entrepreneurial Studies)

@@ -1,19 +1,15 @@
 {
-  "name": "vue-press",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "mwazovzky-github-io",
+  "version": "2.0.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs",
-    "docs:eject": "vuepress eject"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   },
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
-    "d3": "^5.15.1",
-    "d3-cloud": "^1.2.5",
-    "vuepress": "^1.4.1"
+    "d3": "^7.9.0",
+    "d3-cloud": "^1.2.7",
+    "vitepress": "^1.6.3"
   }
 }

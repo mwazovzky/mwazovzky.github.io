@@ -1,19 +1,17 @@
-<link rel="stylesheet" type="text/css" href="/style.css">
-
 # Job Experience
 
 #### January 2018 — now
-<hr class="divider">   
-<a href="https://hamelius.ru/">Hamelius Web Studio</a>
-<OutboundLink/>, 
-Moscow<br>   
+<hr class="divider">
+
+[Hamelius Web Studio](https://hamelius.ru/),
+Moscow<br>
 Senior web developer, fullstack
 
 #### December 2013 — May 2016
-<hr class="divider">   
-<a href="http://strategy.ru">Strategy Partners Group</a>
-<OutboundLink/>,  
-Moscow<br>   
+<hr class="divider">
+
+[Strategy Partners Group](http://strategy.ru),
+Moscow<br>
 Risk-manager<br>
 Design and implementation of Risk Management System.<br>
 Managing project portfolio quality and risks.<br>

@@ -1,0 +1,11 @@
+.center {
+  text-align: center;
+}
+
+.divider {
+  border-color: var(--vp-c-brand-1);
+}
+
+blockquote {
+  font-size: 1em;
+}

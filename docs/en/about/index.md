@@ -1,15 +1,20 @@
 ---
-meta:
-  - name: "og:title"
-    content: Mike Wazovzky. Web dev professional.
-  - name: "og:description"
-    content: Personal site. Technology stack, projects, contacts.
-  - name: "og:image"
-    content: https://mwazovzky.github.io/mikeandsully.png
-  - name: "twitter:card"
-    content: summary
-  - name: "twitter:image"
-    content: https://mwazovzky.github.io/mw2.png
+head:
+  - - meta
+    - name: "og:title"
+      content: Mike Wazovzky. Web dev professional.
+  - - meta
+    - name: "og:description"
+      content: Personal site. Technology stack, projects, contacts.
+  - - meta
+    - name: "og:image"
+      content: https://mwazovzky.github.io/mikeandsully.png
+  - - meta
+    - name: "twitter:card"
+      content: summary
+  - - meta
+    - name: "twitter:image"
+      content: https://mwazovzky.github.io/mw2.png
 ---
 
 # General Information

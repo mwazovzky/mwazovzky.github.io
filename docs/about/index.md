@@ -1,15 +1,20 @@
 ---
-meta:
-  - name: "og:title"
-    content: Майк Вазовзки. Профессионал в области вэб разработки
-  - name: "og:description"
-    content: Персональный сайт. Технологии, проекты, контакты.
-  - name: "og:image"
-    content: https://mwazovzky.github.io/mikeandsully.png
-  - name: "twitter:card"
-    content: summary
-  - name: "twitter:image"
-    content: https://mwazovzky.github.io/mw2.png
+head:
+  - - meta
+    - name: "og:title"
+      content: Майк Вазовзки. Профессионал в области вэб разработки
+  - - meta
+    - name: "og:description"
+      content: Персональный сайт. Технологии, проекты, контакты.
+  - - meta
+    - name: "og:image"
+      content: https://mwazovzky.github.io/mikeandsully.png
+  - - meta
+    - name: "twitter:card"
+      content: summary
+  - - meta
+    - name: "twitter:image"
+      content: https://mwazovzky.github.io/mw2.png
 ---
 
 ## Общая информация
