@@ -8,7 +8,7 @@ hero:
     alt: Mike Wazovzky
   actions:
     - text: Get started →
-      link: /en/about/
+      link: /en/about
       theme: brand
 features:
   - title: Focus on Business Requirements

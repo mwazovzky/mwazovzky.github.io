@@ -8,7 +8,7 @@ hero:
     alt: Майк Вазовзки
   actions:
     - text: Перейти к резюме →
-      link: /about/
+      link: /about
       theme: brand
 features:
   - title: Оптимальный стек технологий
