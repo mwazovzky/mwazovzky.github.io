@@ -1,136 +1,141 @@
-# Проекты
+# Projects
 
 [[toc]]
 
-## Коммерческие проекты
+## Commercial project
 
-### Витрина интернет магазина
+### E-commerce. Internet store window shelf
 
-Каталог товаров (учебные курсы), их категоризаиция, фильтры, поиск.  
-Распродажи - кампании про продвижению конкретного набора продуктов на специальных условиях - скидки, рассрочка.  
-Работа с UTM метками.  
-Создание и обработка заказов (CloudPayments).  
-Интеграция с CRM и другими внешними сервисами.
+Product catalog - training courses, products categirization, filtering, search.
+Promo campains: offer special terms (discounst, credit) - for selected set of products.
+UTM parameters. Orders and payments processing (CloudPayments).
+Integration with CRM and other services.
 
-**Роль в проекте:** backend разработчик.  
-::: tip ТЕХНОЛОГИИ/ОСОБЕННОСТИ
-backend/API: PHP/Laravel/MySQL
-админ панель Laravel/Nova (+ набор библиотек расширяющих возможности Nova)  
-интеграция с CRM (AMO)  
-интеграция с внешними сервисами - webhooks  
-поиск с помощью Laravel Scout/MeiliSearch Engine
-:::
+**Status:** prodiction
 
-### Интернет площадка для взаимодействия учеников с репетиторами
-
-Приложение позволяющее репетиторам разместить информацию о своих услугах, а ученикам (или их родителям)
-подобрать подходящего репетитора в соответствии с развитой системой критериев.  
-**Роль в проекте:** fullstack разработчик.  
-::: tip ТЕХНОЛОГИИ/ОСОБЕННОСТИ
+**Role:** backend (api) developer.  
+::: tip TECHOLOGY/PROJECT SPECIFICS
 backend/API: PHP/Laravel/MySQL  
-frontend: Vue/Nuxt SSR, возможность генерации статического сайта  
-разработка мобильной версии (browser)  
-работа с географическим данными: GoogleMap, карты метро
+services based architecture  
+admin panlel build with Laravel/Nova and related family of libraries  
+integration with CRM  
+integration with other services via webhooks  
+seach via Laravel Scout/MeiliSearch Engine
 :::
 
-### Торговая площадка B2B
+### Collaboration platform for teachers and students
 
-Приложение позволяющее поставщикам публиковать свои предложения (товары, цены, условия) а покупателям размещать запросы и заявки.  
-**Роль в проекте:** fullstack разработчик.  
-::: tip ТЕХНОЛОГИИ/ОСОБЕННОСТИ
-backend/API: PHP/Laravel/MySQL  
-frontend: Vue SPA
+Platform is used by teachers to offer their services.
+Multi-criteria matching mechanism helps students (and their parents) to find teacher.  
+**Role:** fullstack developer.  
+::: tip TECHOLOGY/PROJECT SPECIFICS
+API: PHP/Laravel/MySQL,  
+Vue/NUXT SSR, static site generation as an option,  
+mobile version (browser),  
+integration with GoogleMap, metro map
 :::
 
-### Aналитический центр
+### B2B marketplace
 
-Приложение
-
-- собирает из различных источников (api) данные о (1) фактических операциях, (2) запланированных операциях, (3) архивные данные,
-- формирует отчетность позволяющую проанализировать в различных разрезах структуру и динамику показателей,
-- моделирует поведение показателей в будущем, используется для формирование прогноза и построение базовой версии плана.
-
-**Заказчик:** крупный FMCG производитель.  
-**Роль в проекте:** ведущий разработчик, тим лид. Разработка архитектуры решения, формирование плана и задач проекта, их реализация совместно с командой разработчиков.  
-**Статус:** промышленная эксплуатация, внесение изменений в рамках договора на сопровождение.
-::: tip ТЕХНОЛОГИИ/ОСОБЕННОСТИ
-PHP/Laravel/MySQL/Vue.js  
-Взаимодействие (разработка API) с несколькими внешники системами  
-Формирование отчетности в формате MS Excel  
-Визуализация данных Google Charts
+Seller can publish their offering: product catalogs, prices, conditions.  
+Buyer can request additional information, place requsition and order.  
+**Status:** MVP completed  
+**Role:** fullstack developer  
+::: tip TECHOLOGY/PROJECT SPECIFICS
+Vue SPA,  
+project design was provided via FIGMA,  
+API: PHP/Laravel/MySQL  
 :::
 
-### Планирование развития коммерческой сети
+### Business Analytics
 
-Бизнес приложение для управления развитием коммерческой сети решает задачи:
+Appplication
 
-- формирования иерархического **плана** структурных подразделений и компании в целом,
-- **мониторинга** фактических результатов, сравнение с запланированными показателями, корректировка планов,
-- создания **аналитической отчетности**, визуализации (структура и динамика) данных.
-  Планирование развития сети ведется в терминах установленного в торговых точках партнеров оборудования, продвигающего продукцию различных марок (брендов) компании.
-  Планируется открытие новых точек, переоборудование (модернизация) существующих, прогнозируется их закрытие.
+- collects business operations data from three different sources (api) for (1) completed operations, (2) planned operations, (3) historic data,
+- analyses collected data - structure and dynamics,
+- models future behavior - builds forecast and baseline plan.
 
-**Заказчик** крупный FMCG производитель.  
-**Масштаб проекта:** около 500 коммерческих сетей управляющих торговыми точками (около 100 000) на всей территории России, в системе планирования участвует около 400 пользователей.  
-**Роль в проекте:** ведущий разработчик, тим лид. Участие в документировании, согласовании и уточнении требований заказчика, разработка архитектуры решения, формирование плана и задач проекта, их реализация совместно с командой разработчиков и сотрудников заказчика (бизнес-аналитиков).  
-**Статус:** промышленная эксплуатация, внесение изменений в рамках договора на сопровождение.
-::: tip ТЕХНОЛОГИИ/ОСОБЕННОСТИ
-PHP/Laravel/MySQL/Vue/Vuex  
-Взаимодействие (разработка API) с внешними системами (информация о фактичееских операциях с оборудованием)  
-Формирование отчетности в формате MS Excel  
-Визуализация данных Google Charts
+**Customer:** leading FMCG producer  
+**Role:** senior developer, team lead responsible for soluton architecture,
+planning and execution project tasks jointly with a small team.  
+**Status:** live.
+::: tip TECHOLOGY/PROJECT SPECIFICS
+PHP/Laravel/MySQL/Vue.js,  
+Extensive communication with external applications (developed API),  
+MS Excel reporting,  
+Google Charts data visualization.
 :::
 
-### Система управления оборудованием.
+### Planning
 
-Бизнес приложение, управляющее жизненным циклом оборудования: заказ → транспортирова → установка → ремонт → демонтаж/утилизация.  
-**Роль в проекте:** программист в команде вэб-разработки, бэкэнд/фронтэнд. Разработка модуля заказа POS материалов (заявки → консолидация → закупка → распределение). Интеграционные задачами, связанные с загрузкой данных из файлов и внешнего API, взаимодействием с внешним приложением - авторизация (OAuth2/Passport) и обмен данными. Совершенствование системы техподдержки пользователей. Разработка тестов.  
-**Статус проекта:** промышленная эксплуатации.
-::: tip ТЕХНОЛОГИИ
-PHP/Laravel/MySQL/Vue  
-OAuth2 авторизация (SSO) на базе Laravel/Passport  
-Взаимодействие с внешней системой - двусторонний обмен данными (REST API)
+Planning commercial network development. Specifically planning installation, modernization and utilization of commercial equipment promoting client's brands/products within a retail partners locations.
+Application covers planning, monitoring and analytics stage of the process.  
+**Customer:** leading FMCG producer  
+**Project size:** ~500 retail chains all over Russia, ~400 users.  
+**Role:** senior developer, team lead responsible for soluton architecture, planning and execution project tasks jointly with a small team.  
+**Status:** Live, on-going enchancements as part maintenace contract.
+::: tip TECHOLOGY/PROJECT SPECIFICS
+PHP/Laravel/MySQL/Vue/Vuex.
+Third party API (bidirectional).
+MS Excel reporting.
+Google Charts data visualization.
 :::
 
-## Открытое программное обеспечение
+### Equipment Management System
+
+Equipment lifecycle management: requisition → transportation → installation → maintenance → dismantling/utilization.  
+**Role:** web developer, backend.
+
+> Tasks:  
+> POS materials distribution (requests → consolidated procurement → distribution),  
+> 3rd party integration, loading external data (files and API),  
+> Single Sign On solution,  
+> Planning system data exhange (data mining and bi-directional API),  
+> Customer support system,  
+> Unit and integration testing.
+
+**Status:** production.
+::: tip TECHOLOGY/PROJECT SPECIFICS
+PHP/Laravel/MySQL  
+OAuth2 authorization (SSO) based on Laravel/Passport  
+Third party API  
+:::
+
+## Open Source (OSS)
 
 ### mwazovzky/laravel-database-logger
 
-Библиотека позволяющая писать логи в базу данных.
-После дабавления в конфигурации логгера нового канала (channel) 'database', он доступен для использования.
-Хранение критически важных логов в базе данных позволяет их структурировать (например по типам/категориям),
-организовать анализ и визуализацию данных.  
-**Статус:** активный
-[https://github.com/mwazovzky/laravel-database-logger](https://github.com/mwazovzky/laravel-database-logger)
-::: tip ТЕХНОЛОГИИ
+[https://github.com/mwazovzky/laravel-database-logger](https://github.com/mwazovzky/laravel-database-logger)  
+The library (Laravel Package) allows output logs to database, thus allowing structure, search and analyse critical log data.  
+**Status:** active,
+::: tip TECHOLOGY/PROJECT SPECIFICS
 PHP/Laravel/MySQL
 :::
 
-## Учебные проекты
+## Educational Projects/Training
 
 ### Telegram BOT Eva [@et_vacancy_aggregator_bot](https://web.telegram.org/#/im?p=@et_vacancy_aggregator_bot)
 
-Искусственный интеллект в сфере IT Recruitment  
-**Статус:** проходит стажировку,
-::: tip ТЕХНОЛОГИИ
+IT Recruitment via Artificial Intellegence  
+**Статус:** EVA is taking internship yet :)
+::: tip TECHOLOGY/PROJECT SPECIFICS
 GO  
 Telegram API
 :::
 
-### Monster Lab. landing page [m-lab.xyz](http://m-lab.xyz)
+### Monster Lab landing page [m-lab.xyz](http://m-lab.xyz)
 
-Промо страница вэб-студии.  
-**Статус:** активный,
-::: tip ТЕХНОЛОГИИ
-PHP/Laravel/Vue.js/Bootstrap
+Fun web-studio promo page  
+**Status:** active
+::: tip TECHNOLOGY
+Laravel/Vue.js/Bootstrap
 :::
 
 ### VictoryOverEnglish.com
 
-Персональный сайт частного предпринимателя - преподавателя английского языка.
-Информация о предоставляемых услугах, публикация анонсов и отчетов о проведенных мероприятиях, информационных и обучающих материалов для существующих и потенциальных клиентов.  
-**Статус:** активный,
-[http://victoryoverenglish.com](http://victoryoverenglish.com)
-::: tip ТЕХНОЛОГИИ
+[http://victoryoverenglish.com](http://victoryoverenglish.com)  
+Personal site created for Professional English Teacher.  
+**Status:** live  
+::: tip TECHNOLOGY
 WordPress
 :::

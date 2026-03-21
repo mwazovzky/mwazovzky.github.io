@@ -2,10 +2,10 @@
 head:
   - - meta
     - name: "og:title"
-      content: Майк Вазовзки. Профессионал в области вэб разработки
+      content: Mike Wazovzky. Web dev professional.
   - - meta
     - name: "og:description"
-      content: Персональный сайт. Технологии, проекты, контакты.
+      content: Personal site. Technology stack, projects, contacts.
   - - meta
     - name: "og:image"
       content: https://mwazovzky.github.io/mikeandsully.png
@@ -17,51 +17,56 @@ head:
       content: https://mwazovzky.github.io/mw2.png
 ---
 
-## Общая информация
+# General Information
 
-Имею значительный опыт работы в сфере внедрения "коробочных" бизнес приложений (ERP/ERM/CRM) в
-корпоративном сегменте. Понимаю логику построения процессов. Могу говорить с заказчиком на одном языке, самостоятельно проанализировать и декомпозировать требования, сформировать перечень задач для разработки.
+I am a professional fullstack software developer passionate about modern web technologies.
 
-Последние 5+ лет занимаюсь разработкой программного обеспечения для web, принимал участие в создании приложений для крупных компаний и b2c интернет площадок.
+I have years of experience implementing business applications (ERP/ERM/CRM).
+Strong understanding of business process gives me opportunity to discuss
+customer needs, document and decompose requirements, create project plan.
 
-Есть опыт разработки архитектуры приложения, в том числе сложных интеграционных решений на базе REST API, взаимодействия с API популярных соцсетей (Facebook, Twitter) и мессенджеров (Telegram, Slack).
+I have experience of developing complex app architecture,
+building communication between apps (Rest API),
+3rd party services, social networks (Facebook, Twitter) and messengers (Slack, Telegram)
 
-Считаю тестирование неотъемлимой частью процесса создания ПО, использую TDD, инструменты Continuous Integration. В ходе проекта уделяю серьезное внимание качеству кода, cтремлюсь к построению простой и логичной архитектуры.
+TDD and Continuous Integration tools are part of my daily routine.
 
-## Cтек технологий
+I follow industry coding standards (specifically PHP PSR), support CleanCode concept,
+think that constant attention to application architecture (incremental improvements) and code refactoring are key factors to large project success.
 
-**бэкэнд:** PHP/Laravel, знаком с Symfony и GO,  
-**фронтэнд:** JavaScript/ES6, экосистема Vue (Vuex, VueRouter, Vuetify, Nuxt), не боюсь верстки (HTML/CSS/SASS),  
-**базы данных:** MySql, не только Eloquent, могу писать руками сложные запросы, есть опыт оптимизации,  
-**nosql:** Redis, MongoDB,  
-**поиск:** Algolia, Elasticsearch,  
-**тестирование** PHPUnit, Jest, Mocha/Chai/Sinon,  
-**инструменты:** Git/Bitbucket/Jira/Confluence, Docker.
+## Technology Stack
 
-## Примеры проектов
+**backend:** PHP/Laravel, some experience with Symfony, GO, Node.js,
+**frontend:** JavaScript, Vue ecosystem(Vuex, VueRouter, Vuetify), CSS/SASS,  
+**database:** MySQL, Redis,  
+**search:** Algolia, Elasticsearch,  
+**tools:** Git/Github/Bitbucket/Jira/Confluence, Docker,  
+**testing:** PHPUnit, Jest, Mocha/Chai/Sinon,
 
-- витина интернет магазина - каталог товаров, категоризация, фильтры, поиск, распродажи (промо), обработка заказов и платежей, UTM метки, интеграция с CRM и другими сервисами - API: Laravel/MySql,
-- интернет платформа для взаимодействия учеников с репетиторами - Nuxt SSR, API: Laravel/MySql,
-- торговая площадка b2b - Vue SPA, API: Laravel/MySql,
-- аналитическая системы – сбор и анализ бизнес показателей, KPI - Laravel/MySql/Vue,
-- система планирования - Laravel/MySql/Vue,
-- система управления жизненным циклом тогового оборудования - закупка, монтаж, обслуживание, обеспечение POS материалами - Laravel/MySql/Vue.
+## Project examples
 
-Подробнее о проектах [здесь](/projects.md)
+- internet store catalog - product categorization, filtering, search, promo campaigns, orders and payments, utm parameters, integration with CRM and other services - API: Laravel/MySql,
+- web platfrorm for teacher/student communication - NUXT SSR, API: Laravel/MySql,
+- btb marketplace [MVP] - Vue SPA, API: Laravel/MySql,
+- business analytics platform - Laravel/MySql/Vue,
+- business planning tool - Laravel/MySql/Vue,
+- equipment lifecycle (requisition -> installation -> maintenance -> dismantling/utilization) management app - Laravel/MySql/Vue
 
-## Знание языков
+Projects [details](/projects.md)
 
-Русский — родной  
-Английский — свободно владею
+## Languages
 
-## Контакты
+Russian — native  
+English — fluent
+
+## Contacts
 
 mail: mike.wazovzky@gmail.com  
 twitter: [@MWazovzky](https://twitter.com/MWazovzky)
 
 ## Bitbucket
 
-[https://bitbucket.org/mwazovzky](https://bitbucket.org/mwazovzky)
+[https://bitbucket.org/MWazovzky](https://bitbucket.org/MWazovzky)
 
 ## Github
 

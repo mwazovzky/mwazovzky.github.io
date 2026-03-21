@@ -1,29 +1,29 @@
-# Опыт работы
+# Job Experience
 
-#### Январь 2018 — настоящее время
+#### January 2018 — now
 <hr class="divider">
 
-[Cтудия Hamelius](https://hamelius.ru/),
-Москва<br>
-Ведущий вэб-разработчик, фулстек, технологии PHP/Laravel/MySQL/Vue
+[Hamelius Web Studio](https://hamelius.ru/),
+Moscow<br>
+Senior web developer, fullstack
 
-#### Декабрь 2013 — Май 2016
+#### December 2013 — May 2016
 <hr class="divider">
 
-[Cтратеджи Партнерс Груп](http://strategy.ru),
-Москва<br>
-Риск-менеджер<br>
-Создание, внедрение и эксплуатация системы управления рисками. <br>
-Анализ качества и рисков портфеля проектов компании.<br>
-Разработка технических средств обеспечивающих поддержку системы управления рисками.
+[Strategy Partners Group](http://strategy.ru),
+Moscow<br>
+Risk-manager<br>
+Design and implementation of Risk Management System.<br>
+Managing project portfolio quality and risks.<br>
+Development of technical tools supporting company Risk Management System.
 
 #### 1994 - 2012
 <hr class="divider">   
-Работа в сфере внедрения современных информационных технологий (ERP/EAM/CRM) для повышения эффективности бизнесс-процессов.
+Different jobs related to business applications implementation (ERP/EAM/CRM) and related business process optimisation.
 
-#### Июль 1991 — Июль 1993
+#### July 1991 — July 1993
 <hr class="divider">   
-<strong>Новосибирский Филиал ИТМиВТ</strong>, Новосибирск<br>   
-Стажер. Дипломная работа<br>
-Участие в разработке библиотек визуализации трехмерной компьютерной графики<br> 
-Язык программирования C++
+<a>ITMVT (Computer Science Research Institute), Siberian Branch</a>, Novosibirsk<br>   
+Internship. Graduate project.<br>
+Developing 3D graphics visualisation library.<br>
+Programming language: C++.
