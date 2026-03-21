@@ -13,7 +13,7 @@ Content: personal profile, education, work experience, projects.
 - `npm run docs:dev` — start local dev server
 - `npm run docs:build` — build static site to `docs/.vitepress/dist/`
 - `npm run docs:preview` — preview the built site
-- `bash deploy.sh` — build and deploy to GitHub Pages (force-pushes dist to `master`)
+- Push to `master` triggers GitHub Actions deployment automatically
 
 ## Structure
 
@@ -34,4 +34,4 @@ The theme extends VitePress default via `sidebar-nav-after` layout slot to injec
 
 ## Deployment
 
-`deploy.sh` builds the site, inits a fresh git repo in `docs/.vitepress/dist/`, and force-pushes to `master` on GitHub. The `master` branch is served by GitHub Pages and contains only build output.
+Pushing to `master` triggers `.github/workflows/deploy.yml`, which builds the site and deploys to GitHub Pages via `actions/deploy-pages`.

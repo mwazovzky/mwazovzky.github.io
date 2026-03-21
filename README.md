@@ -25,11 +25,7 @@ npm run docs:preview
 
 ## Deploy
 
-```bash
-bash deploy.sh
-```
-
-Builds the site and force-pushes the output to the `master` branch, which is served by GitHub Pages. Source code lives on other branches (`upgrade`, `dev`).
+Push to `master` triggers a GitHub Actions workflow that builds and deploys to GitHub Pages automatically.
 
 ## Project Structure
 
