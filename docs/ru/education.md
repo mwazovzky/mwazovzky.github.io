@@ -1,17 +1,27 @@
 # Образование
 
-### 1997, YEEES (Yankee Eastern European Entrepreneurial Studies)
-<hr class="divider">
-<strong>Securities Software & Consulting, Inc.</strong>, Bloomfield, CT, USA<br>   
-Стажировка<br>
+### Новосибирский государственный университет, Новосибирск
 
-### 1997, University of West Hartford, CT, USA
-<hr class="divider">
-<strong>Barney School of Business</strong><br>   
+**Физический факультет**<br>
+Кафедра автоматизации физико-технических исследований
+
+### University of West Hartford, CT, USA
+
+**Barney School of Business**<br>
 General Management
 
-### 1993, Новосибирский государственный университет, Новосибирск
-<hr class="divider">
-<strong>Физический факультет</strong>, <br>
-кафедра автоматизация физико-технических исследований
+### YEEES (Yankee Eastern European Entrepreneurial Studies)
 
+**Securities Software & Consulting, Inc.**, Bloomfield, CT, USA<br>
+Стажировка
+
+## Сертификаты
+
+- **Go Foundation** — Ardan Labs
+- **Ultimate Go** — Ardan Labs
+- **Async Architecture**
+
+## Языки
+
+- Русский — родной
+- Английский — B2-C1

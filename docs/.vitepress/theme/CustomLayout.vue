@@ -2,7 +2,6 @@
 import DefaultTheme from 'vitepress/theme'
 import Quote from './Quote.vue'
 import TechnologyCloud from './TechnologyCloud.vue'
-import PoweredByVitepress from './PoweredByVitepress.vue'
 
 const { Layout } = DefaultTheme
 </script>
@@ -10,14 +9,27 @@ const { Layout } = DefaultTheme
 <template>
   <Layout>
     <template #sidebar-nav-after>
-      <hr />
-      <Quote />
-      <hr />
-      <div class="center">
-        <TechnologyCloud />
+      <div class="sidebar-bottom">
+        <hr />
+        <Quote />
+        <hr />
+        <div class="center">
+          <TechnologyCloud />
+        </div>
       </div>
-      <hr />
-      <PoweredByVitepress />
     </template>
   </Layout>
 </template>
+
+<style>
+/* Push sidebar-nav-after content to the bottom */
+.VPSidebar .nav {
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100vh - var(--vp-nav-height) - 32px);
+}
+
+.sidebar-bottom {
+  margin-top: auto;
+}
+</style>

@@ -1,11 +1,74 @@
-.center {
-  text-align: center;
+/* Brand colors - professional blue/slate palette */
+:root {
+  --vp-c-brand-1: #3b82f6;
+  --vp-c-brand-2: #2563eb;
+  --vp-c-brand-3: #1d4ed8;
+  --vp-c-brand-soft: rgba(59, 130, 246, 0.14);
+
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(135deg, #1e3a5f 0%, #3b82f6 100%);
+
+  --vp-button-brand-bg: #3b82f6;
+  --vp-button-brand-hover-bg: #2563eb;
 }
 
+.dark {
+  --vp-home-hero-name-background: linear-gradient(135deg, #60a5fa 0%, #93c5fd 100%);
+}
+
+/* Hero section */
+.VPHero .text {
+  font-size: 20px !important;
+  font-weight: 500 !important;
+  color: var(--vp-c-text-2);
+}
+
+.VPHero .tagline {
+  font-size: 16px !important;
+  line-height: 1.7 !important;
+  max-width: 620px !important;
+}
+
+/* Hide hero image on home page - no cartoon for professional site */
+.VPHero .image-container {
+  display: none !important;
+}
+
+/* Feature cards */
+.VPFeatures .VPFeature {
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  transition: border-color 0.25s;
+}
+
+.VPFeatures .VPFeature:hover {
+  border-color: var(--vp-c-brand-1);
+}
+
+.VPFeatures .title {
+  font-size: 15px !important;
+  font-weight: 600 !important;
+}
+
+.VPFeatures .details {
+  font-size: 13px !important;
+  color: var(--vp-c-text-2);
+}
+
+/* Content pages */
 .divider {
   border-color: var(--vp-c-brand-1);
 }
 
 blockquote {
   font-size: 1em;
+}
+
+.center {
+  text-align: center;
+}
+
+/* Tip containers - used for tech stacks */
+.custom-block.tip {
+  border-color: var(--vp-c-brand-soft);
 }

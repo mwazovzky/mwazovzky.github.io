@@ -2,20 +2,27 @@
 layout: home
 hero:
   name: Mike Wazovzky
-  text: Web Development Professional
-  image:
-    src: /mw1.png
-    alt: Mike Wazovzky
+  text: Senior Backend Engineer | Tech Lead
+  tagline: "10 years building and scaling payment and crypto transaction systems. Focused on reliable distributed systems where correctness and fault tolerance are critical: financial flows, reconciliation, consistency. Experienced in evolving monoliths into scalable, event-driven architectures."
   actions:
-    - text: Get started →
-      link: /about
+    - text: Experience →
+      link: /experience
       theme: brand
+    - text: GitHub
+      link: https://github.com/mwazovzky
+      theme: alt
 features:
-  - title: Modern Technology Stack
-    details: Leveraging the strengths of modern web development tools (backend, frontend) to build optimal application architecture, ensure effective interaction between components, and deliver flexible, scalable solutions.
-  - title: Focus on Business Requirements
-    details: Understanding management challenges and business processes, ability to communicate with stakeholders (including C-level) in their language, enabling me to identify project priorities, focus on delivering results using the simplest means within tight deadlines.
-  - title: Project Management Experience
-    details: Modern development management tools (agile) combined with fundamental project management principles (constant focus on deadlines, budget, and end goals) enable transparent, client-friendly work organization.
-footer: MIT Licensed | Copyright © 2018–2025
+  - icon:
+      src: /icons/backend.svg
+    title: Backend & Architecture
+    details: "PHP (Laravel) · Go · System Design · Event-Driven Architecture · Microservices"
+  - icon:
+      src: /icons/messaging.svg
+    title: Messaging & Data
+    details: "Kafka · NSQ · RabbitMQ · MySQL · Redis · Elasticsearch"
+  - icon:
+      src: /icons/reliability.svg
+    title: Reliability & Observability
+    details: "Prometheus · Grafana · Fault Tolerance · Incident Response"
+footer: Copyright © 2018–2025
 ---

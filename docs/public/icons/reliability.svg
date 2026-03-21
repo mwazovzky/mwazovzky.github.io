@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="g3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a5f"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+  <!-- Shield -->
+  <path d="M24 4 L6 14 L6 26 C6 36 14 44 24 46 C34 44 42 36 42 26 L42 14 Z" fill="url(#g3)" opacity="0.15"/>
+  <path d="M24 4 L6 14 L6 26 C6 36 14 44 24 46 C34 44 42 36 42 26 L42 14 Z" fill="none" stroke="url(#g3)" stroke-width="2"/>
+  <!-- Pulse/heartbeat line -->
+  <polyline points="12,26 18,26 20,20 23,32 26,22 28,28 30,26 36,26" fill="none" stroke="#4ade80" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Status dot -->
+  <circle cx="24" cy="14" r="2.5" fill="#4ade80"/>
+  <circle cx="24" cy="14" r="4" fill="#4ade80" opacity="0.2"/>
+</svg>

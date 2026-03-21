@@ -16,8 +16,8 @@ const data = [
   { text: 'Grafana', count: 24, color: 'F46800' },
   { text: 'Docker', count: 12, color: '2496ED' },
   { text: 'Redis', count: 12, color: 'DC382D' },
-  { text: 'Prometheus', count: 12, color: 'E6522C' },
-  { text: 'Elasticsearch', count: 12, color: 'FEC514' },
+  { text: 'Prometheus', count: 12, color: 'E6522C', rotate: 0 },
+  { text: 'Elasticsearch', count: 12, color: 'FEC514', rotate: 0 },
   { text: 'Vue', count: 12, color: '42B883' },
   { text: 'JS', count: 12, color: 'F7DF1E' },
 ]

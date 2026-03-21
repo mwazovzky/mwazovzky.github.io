@@ -1,17 +1,27 @@
 # Education
 
-### 1997, YEEES (Yankee Eastern European Entrepreneurial Studies)
-<hr class="divider">
-<strong>Securities</strong> Software & Consulting, Inc.<br>   
-Internship
+### Novosibirsk State University, Novosibirsk
 
-### 1997, University of West Hartford, CT, USA
-<hr class="divider">
-<strong>Barney School of Business</strong><br>   
+**School of Physics**<br>
+Division of Applied Computer Science / Physics Research Automation
+
+### University of West Hartford, CT, USA
+
+**Barney School of Business**<br>
 General Management
 
-### 1993, Novosibirsk State Univercity, Novosibirsk
-<hr class="divider">
-<strong>School of Physics</strong><br>   
-Division of Applied Computer Scince/Physics research automation
+### YEEES (Yankee Eastern European Entrepreneurial Studies)
 
+**Securities Software & Consulting, Inc.**, Bloomfield, CT, USA<br>
+Internship
+
+## Certificates
+
+- **Go Foundation** — Ardan Labs
+- **Ultimate Go** — Ardan Labs
+- **Async Architecture**
+
+## Languages
+
+- Russian — native
+- English — B2-C1
