@@ -56,7 +56,7 @@ head:
 
 ## Контакты
 
-mail: mike.wazovzky@gmail.com  
+mail: <EmailLink user="mike.wazovzky" domain="gmail.com" />
 twitter: [@MWazovzky](https://twitter.com/MWazovzky)
 
 ## Bitbucket
